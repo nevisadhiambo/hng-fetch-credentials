@@ -14,14 +14,14 @@ This API provides basic information including:
 - **Backlink**: `https://hng.tech/hire/java-developers`
 
 ## 🚀 API Endpoint
-- **Base URL**: `https://your-deployment-url.com/`
+- **Base URL**: `https://hng-fetch-credentials.onrender.com/`
 - **GET /**
   - Returns a JSON response with email, current datetime (UTC), and GitHub URL.
 
 ### 🔄 Example Response:
 ```json
 {
-  "email": "nevisadhiambo@gmail.com",
+  "email": "example@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "[https://github.com/nevisadhiambo/your-repo](https://github.com/nevisadhiambo/hng-fetch-credentials)"
 }
