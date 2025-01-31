@@ -10,7 +10,7 @@ This API provides basic information including:
 - **Language**: Java
 - **Framework**: Spring Boot
 - **Build Tool**: Maven
-- **Deployment**: Render/Railway/Heroku/etc.
+- **Deployment**: Render
 - **Backlink**: `https://hng.tech/hire/java-developers`
 
 ## 🚀 API Endpoint
